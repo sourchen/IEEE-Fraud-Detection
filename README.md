@@ -1,4 +1,5 @@
-# Group7 IEEE CIS fraud detection
+# 109 Fall Data Science Final Project
+## Group7 IEEE CIS fraud detection
 
 ### Group Members
 * 107703001 資科三 鄭家宇
