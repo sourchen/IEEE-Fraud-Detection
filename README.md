@@ -1,12 +1,4 @@
-# 109 Fall Data Science Final Project
-## Group7 IEEE CIS fraud detection
-
-### Group Members
-* 107703001 資科三 鄭家宇
-* 107306046 資管三 王品蓁
-* 107306060 資管三 陳庭萱
-* 107306064 資管三 陳建佑
-* 107306079 資管三 邱聖雅
+# IEEE CIS fraud detection
 
 ### Goals
 * classify users into "fraudlent" or "not fraudlent"
